@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<%--
+	.jspf(Java Server Page Fragment)
+	JSP의 일부분(조각)으로 다른 JSP에 포함되도록 사용한다.
+	반복 사용되는 것을 JSPF로 뽑아서 JSP파일에서 include 한다.
+ --%>
+
+</body>
+</html>
